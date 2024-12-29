@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="Page-1" id="42ylOoLiBur6XUZpX3UK">
-    <mxGraphModel dx="3269" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5854" dy="2088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -812,92 +812,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-2" target="XV-nB1LA2cfOr1EnX2W1-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-2" value="Prefences Settings" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="3290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-3" target="XV-nB1LA2cfOr1EnX2W1-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-3" value="BMR Calculation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="3330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-4" target="XV-nB1LA2cfOr1EnX2W1-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-4" value="Excersie Tracker" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="3520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-5" target="XV-nB1LA2cfOr1EnX2W1-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-5" value="Calorie Burnout Estimation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2060" y="3520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-6" target="XV-nB1LA2cfOr1EnX2W1-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-6" value="Authentication Services" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="3240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-7" target="XV-nB1LA2cfOr1EnX2W1-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-7" value="Image Recognition" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2031" y="3430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-8" target="XV-nB1LA2cfOr1EnX2W1-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-8" value="Calorie estimation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2210" y="3400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-9" value="User Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2410" y="3400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-10" value="Anayltical Display" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2320" y="3530" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-11" target="XV-nB1LA2cfOr1EnX2W1-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-11" target="XV-nB1LA2cfOr1EnX2W1-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1755" y="3290" />
-              <mxPoint x="1845" y="3290" />
-              <mxPoint x="1845" y="3270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-11" target="XV-nB1LA2cfOr1EnX2W1-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-11" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="3330" width="90" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2030" y="3460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-12" value="Picture Upload" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="3410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-8" target="XV-nB1LA2cfOr1EnX2W1-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="XV-nB1LA2cfOr1EnX2W1-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1780" y="3410.0000000000005" as="sourcePoint" />
-            <mxPoint x="1848.4399999999996" y="3558.5199999999995" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XV-nB1LA2cfOr1EnX2W1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XV-nB1LA2cfOr1EnX2W1-5" target="XV-nB1LA2cfOr1EnX2W1-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="f4yyUodX9ApIfcACCeev-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XV-nB1LA2cfOr1EnX2W1-29" target="XV-nB1LA2cfOr1EnX2W1-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -940,10 +854,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XV-nB1LA2cfOr1EnX2W1-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" parent="1" vertex="1">
-          <mxGeometry x="1660" y="3580" width="60" height="60" as="geometry" />
+          <mxGeometry x="1822.5" y="3580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XV-nB1LA2cfOr1EnX2W1-32" value="Authentication" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1654" y="3640" width="60" height="30" as="geometry" />
+          <mxGeometry x="1816.5" y="3640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XV-nB1LA2cfOr1EnX2W1-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/geosm-e-commerce/48/calculator-128.png" parent="1" vertex="1">
           <mxGeometry x="1654" y="3680" width="60" height="60" as="geometry" />
